@@ -1,0 +1,37 @@
+.container {
+    margin: 0 0 1% 0;
+    padding: 5%;
+    background-image: url('https://images.pexels.com/photos/97558/pexels-photo-97558.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    display: block;
+    max-width: 100vw;
+    height: 100vh;
+} 
+
+.signupCard {
+    height: 70vh;
+    width: 50vh;
+    position: relative;
+    margin: 10vh 0 5vh 70vh;
+    padding: 0 1% 0 3%;
+    color: black;
+    background-color: white;
+    opacity: 0.6;
+}
+i {
+    font-size: 40vh;
+    color: lightblue;
+    position: auto;
+    padding: 0 0 0 25%;
+}
+.link {
+    margin: 5vh 0 0 0;
+}
+
+#signup-card-body {    
+    margin: -10 0 0 10%;
+    color: black;
+    position: absolute;
+}
+h1 {
+    position: auto;
+} 

@@ -1,0 +1,37 @@
+
+
+#parallax {
+  /* The image used */
+/* <<<<<<< HEAD
+  background-image: url("../images/bkg_img.jpg");
+=======
+  background-image: url("../images/chicagoYoga.JPG");
+>>>>>>> e7a6e7792abdfd85abc8da5db3734d28196c2eaa */
+
+  /* Set a specific height */
+  min-height: 500px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#blogIndividual {
+  background-color: green;
+  margin: 1%;
+  height: 25%;
+  width: 100%;
+  
+}
+
+.card-img-top {
+  margin: 2%;
+  size: 10vh;
+
+}
+
+.card-body {
+  background-color: white;
+}
